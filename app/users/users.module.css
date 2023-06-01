@@ -1,0 +1,7 @@
+button.remove {
+	background-color: lightblue;
+	padding: 3px;
+	border-radius: 5px;
+	color: #ffffff;
+	box-shadow: 1px 1px 1px 1px #eee;
+}
